@@ -6,6 +6,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Santinati&layout=compact&langs_count=7&theme=dark"/>
     <img height="300px" align="right" alt="Gero-pic" height="160" style="border-radius:50px;" src="https://i.picasion.com/pic92/73d5a389adc00b40cf0df8e5cd4bff8e.gif?">
 </div>
+  
+## Um pequeno resumo sobre mim 👋
+<div align="justify">
+  Eu sou o <strong>Arthur Santinati</strong>, e o meu apelido é Tuba 🦈, tenho o ensino médio completo, e estou me formando em desenvolvimento web pela trybe e atualmente estou apaixonado pelo desenvolvimento de software e claro, estou   me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>. Se me perguntarem o motivo de ter escolhido essa área, provavelmente eu direi que a programação me desafia todos os dias e eu gosto de me sentir cada vez mais capacitado de resolver problemas. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos e trabalhar em equipe.
+ </div>
+
+Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um algum jogo e disponível para qualquer <strong>Happy Hour</strong>!🎉
+  
+# Tecnologias e Ferramentas
+
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,7 +28,7 @@
 </p>
 </div>
   
-  ##
+  # Minhas redes sociais
  
 <div> 
   <a href="https://www.instagram.com/santinatiarthur/" target="_blank"><img src="https://img.shields.io/badge/-My Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
