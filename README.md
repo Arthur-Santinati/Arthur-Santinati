@@ -108,3 +108,5 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 
 </div>
+<p align="center">Espero que tenha gostado, volte sempre 😁</p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Arthur-Santinati/count.svg" /></p>
