@@ -80,8 +80,8 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
  ✅ Agile methoods
  ✅ React testing library
  ✅ React redux
- 🔵 Context api
- ⌛ React Hooks
+ ✅ Context api
+ ✅ React Hooks
  ```
 
 ⌛ **Back-end**
