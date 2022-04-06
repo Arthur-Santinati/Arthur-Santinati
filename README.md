@@ -87,8 +87,8 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 ⌛ **Back-end**
 
  ```
- ⌛ Docker
- ⌛ SQL
+ ✅  Docker
+ ✅  SQL
  ⌛ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
  ⌛ Deployment
  ⌛ Typescript
