@@ -14,6 +14,11 @@
 
 Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um algum jogo e disponível para qualquer <strong>Happy Hour</strong>!🎉
   
+  
+  
+  # Se gostaria de ver meus projetos funcionando, aqui está o link do meu _Portfólio pessoal_
+  ## https://spontaneous-toffee-da7af8.netlify.app
+  
 # Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
