@@ -16,8 +16,8 @@ Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não 
   
   
   
-  # Se gostaria de ver meus projetos funcionando, aqui está o link do meu _Portfólio pessoal_
-  ## https://spontaneous-toffee-da7af8.netlify.app
+  # Se gostaria de ver meus projetos funcionando, aqui está o link do meu _Portfólio pessoal_ (Não está 100% finalizado)
+  ## https://glittery-youtiao-308387.netlify.app
   
 # Tecnologias e Ferramentas
 
