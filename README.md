@@ -41,7 +41,7 @@ Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não 
   <a href="https://www.instagram.com/santinatiarthur/" target="_blank"><img src="https://img.shields.io/badge/-My Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-santinati/" target="_blank"><img src="https://img.shields.io/badge/-My LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:arthursantinati02@outlook.com" target="_blank"><img src="https://img.shields.io/badge/My Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5519999913640&text=Ol%C3%A1,%20Gero!%20" target="_blank"><img src="https://img.shields.io/badge/-My Whatsapp-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5519992731005&text=Ol%C3%A1,%20Arthur!%20" target="_blank"><img src="https://img.shields.io/badge/-My Whatsapp-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
  
 # Versão em Português - Trybe
@@ -96,7 +96,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
  ```
  ✅  Docker
  ✅  SQL
- ⌛ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
+ ✅ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
  ⌛ Deployment
  ⌛ Typescript
  ⌛ POO and Solid 
