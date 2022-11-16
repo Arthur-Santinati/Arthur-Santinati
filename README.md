@@ -101,7 +101,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
  ✅ Typescript
  ✅ POO and Solid 
  ✅ MongoDB
- ⌛ VPS CI/CD
+ ✅ VPS CI/CD
  ```
 
 
