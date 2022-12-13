@@ -1,20 +1,25 @@
-## Opa eu sou o Arthur Santinati, estudante de programação e tecnologia, e desenvolvedor Web!
+## Opa eu sou o Arthur Santinati, estudante de programação e tecnologia, e desenvolvedor Web! E aqui está um resumo sobre mim 👋👇
 
-<div align="center">
-  <a href="https://github.com/Arthur-Santinati">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Santinati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Santinati&layout=compact&langs_count=7&theme=dark"/>
-    <img height="300px" align="right" alt="Gero-pic" height="160" style="border-radius:50px;" src="https://i.picasion.com/pic92/73d5a389adc00b40cf0df8e5cd4bff8e.gif?">
-</div>
-  
-## Um pequeno resumo sobre mim 👋
 <div align="justify">
   Eu sou o <strong>Arthur Santinati</strong>, e o meu apelido é Tuba 🦈, tenho o ensino médio completo, e estou me formando em desenvolvimento web pela trybe e atualmente estou apaixonado pelo desenvolvimento de software e claro, estou me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>. Se me perguntarem o motivo de ter escolhido essa área, provavelmente eu direi que a programação me desafia todos os dias e eu gosto de me sentir cada vez mais capacitado de resolver problemas. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos e trabalhar em equipe.
  </div>
 
 Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um algum jogo e disponível para qualquer <strong>Happy Hour</strong>!🎉
+
+  # Minhas redes sociais
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/arthur-santinati/" target="_blank"><img src="https://img.shields.io/badge/-My LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:arthursantinati02@outlook.com" target="_blank"><img src="https://img.shields.io/badge/My Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5519999913640&text=Ol%C3%A1,%20Arthur!%20" target="_blank"><img src="https://img.shields.io/badge/-My Whatsapp-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
-  
+ # Meus status e commits
+  <div align="center">
+  <a href="https://github.com/Arthur-Santinati">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Santinati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Santinati&layout=compact&langs_count=7&theme=dark"/>
+    <img height="300px" align="right" alt="Gero-pic" height="160" style="border-radius:50px;" src="https://i.picasion.com/pic92/73d5a389adc00b40cf0df8e5cd4bff8e.gif?">
+</div>
   
   # Se gostaria de ver meus projetos funcionando, aqui está o link do meu _Portfólio pessoal_
   ## https://glittering-cendol-c0e3c3.netlify.app/
@@ -34,15 +39,7 @@ Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não 
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> -->
 </p>
 </div>
-  
-  # Minhas redes sociais
- 
-<div> 
-  <a href="https://www.linkedin.com/in/arthur-santinati/" target="_blank"><img src="https://img.shields.io/badge/-My LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:arthursantinati02@outlook.com" target="_blank"><img src="https://img.shields.io/badge/My Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5519999913640&text=Ol%C3%A1,%20Arthur!%20" target="_blank"><img src="https://img.shields.io/badge/-My Whatsapp-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
- 
+   
 # Versão em Português - Trybe
 
 Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por [Arthur Santinati](https://www.linkedin.com/in/arthur-santinati/) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket: (2021-2022).
