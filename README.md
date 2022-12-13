@@ -1,4 +1,4 @@
-## Opa eu sou o Arthur Santinati, estudante de programação e tecnologia!
+## Opa eu sou o Arthur Santinati, estudante de programação e tecnologia, e desenvolvedor Web!
 
 <div align="center">
   <a href="https://github.com/Arthur-Santinati">
@@ -9,7 +9,7 @@
   
 ## Um pequeno resumo sobre mim 👋
 <div align="justify">
-  Eu sou o <strong>Arthur Santinati</strong>, e o meu apelido é Tuba 🦈, tenho o ensino médio completo, e estou me formando em desenvolvimento web pela trybe e atualmente estou apaixonado pelo desenvolvimento de software e claro, estou   me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>. Se me perguntarem o motivo de ter escolhido essa área, provavelmente eu direi que a programação me desafia todos os dias e eu gosto de me sentir cada vez mais capacitado de resolver problemas. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos e trabalhar em equipe.
+  Eu sou o <strong>Arthur Santinati</strong>, e o meu apelido é Tuba 🦈, tenho o ensino médio completo, e estou me formando em desenvolvimento web pela trybe e atualmente estou apaixonado pelo desenvolvimento de software e claro, estou me capacitando cada dia mais afim de me transformar em <strong>Desenvolvedor Full Stack</strong>. Se me perguntarem o motivo de ter escolhido essa área, provavelmente eu direi que a programação me desafia todos os dias e eu gosto de me sentir cada vez mais capacitado de resolver problemas. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos e trabalhar em equipe.
  </div>
 
 Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um algum jogo e disponível para qualquer <strong>Happy Hour</strong>!🎉
@@ -38,10 +38,9 @@ Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não 
   # Minhas redes sociais
  
 <div> 
-  <a href="https://www.instagram.com/santinatiarthur/" target="_blank"><img src="https://img.shields.io/badge/-My Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-santinati/" target="_blank"><img src="https://img.shields.io/badge/-My LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:arthursantinati02@outlook.com" target="_blank"><img src="https://img.shields.io/badge/My Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5519992731005&text=Ol%C3%A1,%20Arthur!%20" target="_blank"><img src="https://img.shields.io/badge/-My Whatsapp-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5519999913640&text=Ol%C3%A1,%20Arthur!%20" target="_blank"><img src="https://img.shields.io/badge/-My Whatsapp-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
  
 # Versão em Português - Trybe
