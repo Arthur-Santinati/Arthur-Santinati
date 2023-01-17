@@ -15,7 +15,7 @@ Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não 
   
 
   
-  Meus status e commits
+ # Meus status e commits
 <div align="center">
   <a href="https://github.com/Arthur-Santinati">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Santinati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
