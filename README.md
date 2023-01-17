@@ -14,18 +14,18 @@ Se quiser me chamar pra trocar uma idéia ou qualquer coisa coisa do tipo, não 
   <a href="https://api.whatsapp.com/send?phone=5519999913640&text=Ol%C3%A1,%20Arthur!%20" target="_blank"><img src="https://img.shields.io/badge/-My Whatsapp-%2362C829?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
 
-  <!--
-      # Meus status e commits
+  
+  Meus status e commits
 <div align="center">
   <a href="https://github.com/Arthur-Santinati">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Santinati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Santinati&layout=compact&langs_count=7&theme=dark"/>
     <img height="300px" align="right" alt="Gero-pic" height="160" style="border-radius:50px;" src="https://i.picasion.com/pic92/73d5a389adc00b40cf0df8e5cd4bff8e.gif?">
-</div> -->
+</div>
  
   
   # Se gostaria de ver meus projetos funcionando, aqui está o link do meu _Portfólio pessoal_
-  ## https://glittering-cendol-c0e3c3.netlify.app/
+  ## https://arthursantinati.netlify.app/
   
 # Tecnologias e Ferramentas
 
