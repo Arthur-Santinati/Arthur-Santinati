@@ -15,6 +15,21 @@ Sou formado pela [Trybe](https://www.betrybe.com/) em Desenvolvimento Web e atuo
 
 ---
 
+## 💼 Experiência Profissional
+
+- **Front-End Developer** – ASC Solutions (RJ)  
+  ⏳ Mar/2023 – Jul/2025  
+  - Desenvolvimento de plataformas e aplicativos para programas de sócio-torcedor, com foco em performance e usabilidade.
+  - Utilização de **Angular** e **Ionic** na construção de aplicações multiplataforma (iOS e Android).
+  - Participação nas etapas do desenvolvimento: criação de interfaces com sliders e formulários dinâmicos, consumo de **APIs REST** e versionamento com **Git**.
+
+- **Front-End Developer** – Dopster.io  
+  ⏳ Jul/2022 – Mar/2023  
+  - Desenvolvimento de aplicações web responsivas com foco em performance e escalabilidade.
+  - Implementação de interfaces complexas com **React**, integração com **APIs REST** e boas práticas como **Clean Code**.
+  - Colaboração com times de design usando **Figma** para garantir experiência do usuário e fidelidade visual.
+---
+
 ## 🚀 Portfólio
 - [🌐 Acesse aqui meu portfólio pessoal](https://arthursantinati.netlify.app/)
 
