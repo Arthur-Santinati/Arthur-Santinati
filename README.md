@@ -1,149 +1,111 @@
-# 👋 Olá, eu sou o Arthur Santinati (Tuba)
+# 👋 Olá, eu sou o Arthur Santinati
 
-## Desenvolvedor Full Stack | Apaixonado por resolver problemas com código 💻
+### Software Engineer | Product Engineer & Full Stack Specialist
 
-Sou formado pela [Trybe](https://www.betrybe.com/) em Desenvolvimento Web e atuo há **4 anos** como desenvolvedor. Gosto de programar, trabalhar em equipe e me desafio diariamente para evoluir.
+Engenheiro de Software Full Stack com **mais de 5 anos de experiência profissional** atuando no ciclo completo de produtos digitais — desde a modelagem relacional de banco de dados e arquitetura de microsserviços até interfaces web modernas de alta conversão e aplicativos mobile publicados nas lojas oficiais.
+
+Experiência sólida na construção de **SaaS multi-tenant**, sistemas analíticos, módulos de **ERP corporativo**, conciliação de sistemas legados, integrações financeiras (**Mercado Pago, Stripe, Pagar.me, Cielo**) e automações com **WhatsApp Cloud API**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Portfólio & Demonstrações
 
-- *Front-end: React, Angular, Next.js, React Native, Ionic, Expo*.
-- *Gerenciamento de Estado: Redux, Context API, Zustand, React Hooks*.
-- *Back-end: Node.js, NestJS, integração com APIs em C#.*
-- *Linguagens: JavaScript, TypeScript*.
-- *Banco de Dados: PostgreSQL, MySQL, MongoDB*.
-- *Integrações & Pagamentos: Cielo (PIX, boleto, cartão de crédito).*.
-- *Estilização & UI/UX: TailwindCSS, Bootstrap, Material UI, ChakraUI, ShadcnUI, CSS Modules, Styled Components, Sass*.
-- *Autenticação & Segurança: JWT, NextAuth, OAuth 2.0*.
-- *Ferramentas & Workflow: Git, GitHub, GitFlow, Jira, ClickUp, Trello, Docker, Azure*.
-- *Boas Práticas: REST API, WebSockets, Clean Code, SOLID, Design Patterns, Arquitetura Limpa, Multitenant, Refatoração de código, Metodologias Ágeis (Scrum/Kanban)*.
+🌐 **Portfólio Pessoal:** [https://arthursantinati.netlify.app/](https://arthursantinati.netlify.app/)  
+📫 **E-mail:** [arthursantinati02@outlook.com](mailto:arthursantinati02@outlook.com)  
+💼 **LinkedIn:** [linkedin.com/in/arthur-santinati](https://www.linkedin.com/in/arthur-santinati/)  
+💬 **WhatsApp:** [Conversar Diretamente](https://wa.me/5519999999999?text=Ol%C3%A1%20Arthur%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
+
+---
+
+## 🛠️ Stack Tecnológico & Arquitetura
+
+```
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │                               UI / UX                                  │
+  │            Tailwind CSS • Shadcn/UI • Zustand • Redux • Figma          │
+  ├────────────────────────────────────────────────────────────────────────┤
+  │                      Frontend Web & Mobile                             │
+  │     Next.js (App Router) • React • TypeScript • React Native (Expo)    │
+  ├────────────────────────────────────────────────────────────────────────┤
+  │                         Backend & APIs                                 │
+  │      NestJS • Node.js • REST APIs • WebSockets • JWT / NextAuth / RBAC │
+  ├────────────────────────────────────────────────────────────────────────┤
+  │                     Persistência & Modelagem                           │
+  │            PostgreSQL • Prisma ORM • MySQL • MongoDB                   │
+  ├────────────────────────────────────────────────────────────────────────┤
+  │                       DevOps, Infra & CI/CD                            │
+  │        Docker • Docker Compose • Jenkins • GitHub Actions • VPS        │
+  ├────────────────────────────────────────────────────────────────────────┤
+  │                      Integrações & Negócio                             │
+  │  WhatsApp Cloud API • Mercado Pago • Stripe • Pagar.me • Cielo • ERPs │
+  └────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🌟 Projetos & Estudos de Caso de Destaque
+
+### 💈 **NARÉGUA — SaaS Multi-tenant para Barbearias & Salões**
+- **Escopo:** Plataforma completa com aplicativo mobile para clientes e painel administrativo web em tempo real para gestores e profissionais.
+- **Diferencial Técnico:** Resolução estrita de concorrência em agendamentos em tempo real; integração com a **WhatsApp Cloud API** para lembretes e confirmações automáticas (redução drástica de no-shows); webhooks de pagamento com garantia de idempotência.
+- **Stack:** `Next.js` • `React Native` • `NestJS` • `Prisma` • `PostgreSQL` • `WhatsApp Cloud API` • `Mercado Pago` • `Docker`
+
+### 📊 **Vitta Insight — Dashboard Analítico & Plataforma Operacional**
+- **Escopo:** Monorepo pnpm corporativo (`apps/web`, `apps/api`, `packages/shared`) para registro rápido de atendimentos em lojas físicas e inteligência de vendas.
+- **Diferencial Técnico:** Autenticação granular por perfil (Admin, Gerente e vendedor via PIN rápido); banco relacional no PostgreSQL 16 conteinerizado via Docker Compose com migrations e seeds idempotentes; alta densidade de dados analíticos.
+- **Stack:** `Next.js 15 (PWA)` • `NestJS` • `Prisma` • `PostgreSQL 16` • `Docker Compose` • `TypeScript` • `Tailwind CSS`
+
+### 💼 **Plataforma de Gestão de Investimentos & Contratos Financeiros**
+- **Escopo:** Sistema integrado para gestão de contratos, aportes financeiros, cálculo de rentabilidade e emissão de extratos com app mobile para investidores.
+- **Diferencial Técnico:** Isolamento e segurança para dados financeiros sensíveis; trilha de auditoria para operações críticas e sincronização de contratos.
+- **Stack:** `Next.js` • `React Native` • `NestJS` • `Node.js` • `MySQL/PostgreSQL` • `Docker`
+
+### ⚙️ **Módulo de Integração ERP & Automação de Processos Empresariais**
+- **Escopo:** Camada de integração desacoplada para sincronização de cadastros, ordens de serviço e processamento de documentos entre sistemas ERP legados e aplicações modernas.
+- **Diferencial Técnico:** Resiliência com retentativas automáticas, tolerância a falhas de rede e esteira de CI/CD automatizada com Jenkins e Docker.
+- **Stack:** `Node.js` • `NestJS` • `Docker` • `Jenkins (CI/CD)` • `REST APIs` • `Webhooks` • `PostgreSQL`
 
 ---
 
 ## 💼 Experiência Profissional
 
-### **Desenvolvedor Full Stack** – Hybriun Desenvolvimentos (Americana - SP)  
-⏳ Jul/2025 - Atualmente  
-  - Atuo como Desenvolvedor Full-Stack na Hybriun, desenvolvendo soluções personalizadas para web e mobile, sempre alinhadas às necessidades dos clientes e voltadas para alta performance.
-  - Minhas principais responsabilidades incluem:
-  - Desenvolvimento e manutenção de aplicações web modernas utilizando React e Next.js.
-  - Criação de aplicativos móveis multiplataforma com React Native, desde a concepção até a publicação em lojas oficiais (Google Play e App Store).
-  - Implementação de APIs RESTful e serviços backend escaláveis com NestJS.
-  - Integração de meios de pagamento como Stripe e Pagar.me.
-  - Modelagem, otimização e gerenciamento de bancos de dados relacionais com MySQL.
-  - Garantia de que os sistemas entregues sejam seguros, escaláveis e robustos, atendendo a diferentes segmentos de negócio.
+### **Desenvolvedor Full Stack** — Hybriun Desenvolvimento  
+⏳ *Jul/2025 – Presente*  
+- Arquitetura e desenvolvimento de ponta a ponta em plataformas web modernas (Next.js/React) e aplicativos móveis (React Native com publicação nas lojas Google Play e App Store).
+- Criação e manutenção de APIs REST escaláveis e tipadas com NestJS e modelagem relacional com MySQL.
+- Integração de meios de pagamento digitais (Stripe e Pagar.me) com tratamento seguro e idempotente de webhooks.
 
-### **Desenvolvedor Front End** – ASC Solutions (RJ)  
-  ⏳ Mar/2023 – Jul/2025  
-  - Atuei como Desenvolvedor Front-End em na ASC Solutions, focado no desenvolvimento de plataformas web e aplicativos mobile, entregando soluções completas para clientes de diferentes segmentos.
+### **Desenvolvedor Front-End** — ASC Solutions  
+⏳ *Mar/2023 – Jul/2025*  
+- Desenvolvimento do aplicativo de **Sócio-Torcedor** com carteira digital via QR Code para catracas de estádios, catálogo de produtos e gestão de dependentes.
+- Criação de plataforma de gerenciamento de eventos (shows e jogos) com monitoramento em tempo real e controle de público integrado a catracas.
+- Integração direta com gateway Cielo (PIX, boleto e cartão de crédito).
+- Desenvolvimento web com Angular e mobile com Ionic, incluindo publicação e manutenção nas lojas oficiais.
 
-  - **Principais responsabilidades e tecnologias utilizadas**:
-  - Desenvolvimento web com Angular, criação de dashboards administrativos e sistemas interativos.
-  - Estilização com TailwindCSS e Bootstrap, garantindo interfaces modernas e responsivas.
-  - Integração com APIs em C# e integração de meios de pagamento (Cielo – boleto, PIX e cartão de crédito).
-  - Desenvolvimento mobile para iOS e Android utilizando Ionic (com suporte também para web).
-  - Publicação e manutenção de aplicativos em lojas oficiais (Google Play e App Store), incluindo processos de testes internos, lançamento público e constantes atualizações.
-
- 🌟**Diferenciais e projetos de destaque:**
-
-📲 **Aplicativo de Sócio-Torcedor:**
-  - Totalmente gerenciado por um dashboard administrativo personalizável.
-  - Funcionalidades: cadastro/login de usuários, carrosséis configuráveis, catálogo de produtos, sistema de pagamentos, carteira digital com QR Code para acesso a estádios/parques, e gestão de dependentes vinculados à conta do titular, gerenciamento de perfil e controle das cobranças.
-  - Possibilidade de personalização completa do app (cores, ícones, banners e layout) diretamente pelo cliente.
-
-💻 **Gerenciador de Eventos:**
-  - Plataforma para criação e gestão de diferentes tipos de eventos (jogos, shows, festivais, etc.) com monitoramento em tempo real.
-  - Integração com catracas de acesso, relatórios administrativos e controle de público.
-  - Essa experiência me proporcionou grande domínio em desenvolvimento web e mobile, além de habilidades em integração de pagamentos, publicação de aplicativos, UX/UI e construção de sistemas escaláveis e personalizáveis.
-
-### **Desenvolvedor Front End** – Dopster.io (SP)
-  ⏳ Jul/2022 – Mar/2023  
-  - Desenvolvi plataformas médicas e projetos de ESG (Ambiental, Social e Governança), com forte foco em escalabilidade, performance e design centrado no usuário.
-  - Principais tecnologias e responsabilidades:
-  - Front-end: Criação de interfaces dinâmicas e responsivas utilizando JavaScript, TypeScript, Git, GitHub, GitFlow, ReactJS, Next.js e React Native.
-  - Gerenciamento de estado: Implementação de Redux, Zustand, Context API e React Hooks para garantir eficiência e organização no fluxo de dados.
-  - Navegação & Autenticação: Uso de React Router, React Navigation, NextAuth e JWT para assegurar uma navegação fluida e autenticação segura.
-  - Integrações & Comunicação: Utilização de WebSockets para comunicação em tempo real.
-  - Otimização & SEO: Aplicação de técnicas de otimização de performance e boas práticas de SEO para carregamento rápido e maior visibilidade.
-  - Consumo e manipulação de dados: Consumo de APIs REST, com uso de React Query, Axios e Fetch API para integração com bancos de dados e serviços externos.
-  - Validação & Testes: Utilização de React Hook Form e Zod para validação de dados e consistência entre frontend e backend.
-  - Estilização: Desenvolvimento de interfaces consistentes e atrativas com TailwindCSS, CSS Modules, Styled Components, ShadcnUI, ChakraUI, Material Design e Sass.
-  - Colaboração: Atuação em conjunto com clientes e designers, desde o protótipo até a entrega em produção, sempre garantindo alinhamento às regras de negócio e às necessidades dos usuários.
-  - Liderança & responsabilidades extras: Apoio na liderança de equipe, conduzindo revisões de código, garantindo entendimento dos requisitos técnicos e participando ativamente no processo de deploy.
-
-Essa experiência me permitiu ampliar meu conjunto de habilidades e contribuir de forma significativa para projetos de alto impacto nas áreas médica e de ESG.
----
-
-## 🚀 Portfólio
-[🌐 Acesse aqui meu portfólio pessoal](https://arthursantinati.netlify.app/)
+### **Desenvolvedor Front-End** — Dopster.io  
+⏳ *Jul/2022 – Mar/2023*  
+- Desenvolvimento de plataformas médicas e soluções em governança corporativa/ESG com ênfase em dados ao vivo via WebSockets.
+- Autenticação segura com JWT e NextAuth; gerenciamento de estado complexo com Zustand e Redux.
+- Validação estrita de formulários e contratos de dados com React Hook Form e Zod.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Santinati&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Santinati&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ---
 
-## 📫 Contato
+## 📫 Contato & Parcerias
 
-<a href="mailto:arthursantinati02@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/arthur-santinati/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:arthursantinati02@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arthur-santinati/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://arthursantinati.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+</p>
 
-Disponível para **Free lances**, **Parcerias em projetos**, **Novas oportunidades** ou até **um happy hour 🍻**
-
----
-
-## 📚 Formação Trybe
-
-> Formação de +1500 horas em Desenvolvimento Web: Front-end, Back-end, Ciência da Computação, Engenharia de Software e Soft Skills.
-
-**Stacks estudadas:**
-- JavaScript, TypeScript, HTML, CSS, React, Node.js, SQL, MongoDB
-- Git, Docker, POO, SOLID, CI/CD, Python
-
----
-
-## 🧠 Conhecimentos
-
-### ✔️ Fundamentos
- ✅ Unix e Bash 
- ✅ Git e Github
- ✅ Markdown  
- ✅ Html
- ✅ CSS 
- ✅ Javascript
-
-### 🔵 Front-end
- ✅ Api consumption
- ✅ React componenets
- ✅ React events and forms
- ✅ React Router
- ✅ React Componenets lifecycle
- ✅ Agile methoods
- ✅ React testing library
- ✅ React redux
- ✅ Context api
- ✅ React Hooks
-
-### 🟢 Back-end
- ✅  Docker
- ✅  SQL
- ✅ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
- ✅ Deployment
- ✅ Typescript
- ✅ POO and Solid 
- ✅ MongoDB
- ✅ VPS CI/CD
- 
-### 🔍 Ciência da Computação
- ✅ Python
- ✅ Web Scraping 
- ✅ Data structuring
-
----
-
-<p align="center">Obrigado por visitar meu perfil! 😄</p>
+<p align="center">
+  Aberto a posições sênior, desenvolvimento de produtos digitais, projetos SaaS e consultoria de arquitetura.
+</p>
