@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Arthur Santinati - Senior Full Stack Software Engineer" width="100%" />
+</p>
+
 # 👋 Olá, eu sou o Arthur Santinati
 
 ### Senior Full Stack Developer | Product Engineer & AI Integrator
