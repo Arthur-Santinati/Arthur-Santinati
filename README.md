@@ -1,10 +1,12 @@
 # 👋 Olá, eu sou o Arthur Santinati
 
-### Software Engineer | Product Engineer & Full Stack Specialist
+### Senior Full Stack Developer | Product Engineer & AI Integrator
 
-Engenheiro de Software Full Stack com **mais de 5 anos de experiência profissional** atuando no ciclo completo de produtos digitais — desde a modelagem relacional de banco de dados e arquitetura de microsserviços até interfaces web modernas de alta conversão e aplicativos mobile publicados nas lojas oficiais.
+Engenheiro de Software Full Stack com **mais de 6 anos de experiência profissional** atuando no ciclo completo de produtos digitais — desde a modelagem relacional de banco de dados e arquitetura de microsserviços até interfaces web modernas de alta conversão, aplicativos mobile publicados nas lojas e integração avançada com modelos de **Inteligência Artificial & LLMs**.
 
-Experiência sólida na construção de **SaaS multi-tenant**, sistemas analíticos, módulos de **ERP corporativo**, conciliação de sistemas legados, integrações financeiras (**Mercado Pago, Stripe, Pagar.me, Cielo**) e automações com **WhatsApp Cloud API**.
+Atualmente na **HTeck**, atuo como Desenvolvedor Full Stack Sênior liderando o desenvolvimento de um **sistema ERP completo para indústrias metalúrgicas**, um produto proprietário altamente modular projetado para comercialização B2B.
+
+Possuo sólida vivência na arquitetura de **plataformas SaaS multi-tenant** (com gestão de planos e assinaturas recorrentes), sistemas de agendamento em tempo real com controle de fila de atendimento, módulos de gestão industrial (PCP, produção, estoque, faturamento) e esteiras de entrega contínua com **Docker e Jenkins (CI/CD)**.
 
 ---
 
@@ -21,6 +23,9 @@ Experiência sólida na construção de **SaaS multi-tenant**, sistemas analíti
 
 ```
   ┌────────────────────────────────────────────────────────────────────────┐
+  │                 Inteligência Artificial & LLMs                         │
+  │     OpenAI API • Anthropic Claude • Gemini • Function Calling • RAG    │
+  ├────────────────────────────────────────────────────────────────────────┤
   │                               UI / UX                                  │
   │            Tailwind CSS • Shadcn/UI • Zustand • Redux • Figma          │
   ├────────────────────────────────────────────────────────────────────────┤
@@ -36,8 +41,8 @@ Experiência sólida na construção de **SaaS multi-tenant**, sistemas analíti
   │                       DevOps, Infra & CI/CD                            │
   │        Docker • Docker Compose • Jenkins • GitHub Actions • VPS        │
   ├────────────────────────────────────────────────────────────────────────┤
-  │                      Integrações & Negócio                             │
-  │  WhatsApp Cloud API • Mercado Pago • Stripe • Pagar.me • Cielo • ERPs │
+  │                      Sistemas & Negócio                                │
+  │    ERPs Industriais • SaaS Multi-tenant • Assinaturas • Pagamentos     │
   └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -45,35 +50,42 @@ Experiência sólida na construção de **SaaS multi-tenant**, sistemas analíti
 
 ## 🌟 Projetos & Estudos de Caso de Destaque
 
-### 💈 **NARÉGUA — SaaS Multi-tenant para Barbearias & Salões**
-- **Escopo:** Plataforma completa com aplicativo mobile para clientes e painel administrativo web em tempo real para gestores e profissionais.
-- **Diferencial Técnico:** Resolução estrita de concorrência em agendamentos em tempo real; integração com a **WhatsApp Cloud API** para lembretes e confirmações automáticas (redução drástica de no-shows); webhooks de pagamento com garantia de idempotência.
-- **Stack:** `Next.js` • `React Native` • `NestJS` • `Prisma` • `PostgreSQL` • `WhatsApp Cloud API` • `Mercado Pago` • `Docker`
+### 💇 **Blow — Plataforma & App de Agendamento para Salões**
+- **Escopo:** Plataforma completa composta por aplicativo mobile para clientes e painel administrativo web interativo para recepção e gestão.
+- **Diferencial Técnico:** Fila de profissionais sincronizada em tempo real via WebSockets; fluxo de autenticação seguro; controle rigoroso de concorrência na marcação de horários; perfis de acesso especializados (Recepcionista, Gestor, Profissional).
+- **Stack:** `React Native` • `Next.js` • `TypeScript` • `NestJS` • `Node.js` • `Prisma` • `PostgreSQL` • `WebSockets`
+
+### 🚗 **SaaS Multi-tenant de Gestão de Oficinas Mecânicas**
+- **Escopo:** Plataforma web 100% responsiva para centros automotivos com gestão completa de planos e assinaturas com cobrança recorrente.
+- **Diferencial Técnico:** Isolamento de dados multi-tenant; emissão e fluxo de Ordens de Produção/Serviço (OP/OS); controle de veículos dos clientes; ponto eletrônico para colaboradores/mecânicos; controle e baixa de estoque de peças automotivas; dashboards operacionais e financeiros.
+- **Stack:** `Next.js` • `TypeScript` • `NestJS / Node.js` • `Prisma` • `PostgreSQL` • `Gateways de Pagamento` • `Tailwind CSS`
+
+### 🏭 **HTeck ERP Industrial — Sistema ERP para Metalúrgicas**
+- **Escopo:** Sistema ERP corporativo modular completo desenvolvido para a cadeia produtiva de indústrias metalúrgicas — preparado para comercialização B2B.
+- **Diferencial Técnico:** Modelagem de regras industriais densas (Planejamento e Controle da Produção - PCP, engenharia de produto, rastreabilidade de lotes, estoque de matéria-prima e produtos acabados, compras e faturamento); garantia de consistência transacional estrita (ACID); esteira CI/CD conteinerizada com Docker e Jenkins.
+- **Stack:** `Next.js` • `TypeScript` • `NestJS` • `Prisma` • `PostgreSQL` • `Docker` • `Jenkins (CI/CD)`
 
 ### 📊 **Vitta Insight — Dashboard Analítico & Plataforma Operacional**
 - **Escopo:** Monorepo pnpm corporativo (`apps/web`, `apps/api`, `packages/shared`) para registro rápido de atendimentos em lojas físicas e inteligência de vendas.
 - **Diferencial Técnico:** Autenticação granular por perfil (Admin, Gerente e vendedor via PIN rápido); banco relacional no PostgreSQL 16 conteinerizado via Docker Compose com migrations e seeds idempotentes; alta densidade de dados analíticos.
 - **Stack:** `Next.js 15 (PWA)` • `NestJS` • `Prisma` • `PostgreSQL 16` • `Docker Compose` • `TypeScript` • `Tailwind CSS`
 
-### 💼 **Plataforma de Gestão de Investimentos & Contratos Financeiros**
-- **Escopo:** Sistema integrado para gestão de contratos, aportes financeiros, cálculo de rentabilidade e emissão de extratos com app mobile para investidores.
-- **Diferencial Técnico:** Isolamento e segurança para dados financeiros sensíveis; trilha de auditoria para operações críticas e sincronização de contratos.
-- **Stack:** `Next.js` • `React Native` • `NestJS` • `Node.js` • `MySQL/PostgreSQL` • `Docker`
-
-### ⚙️ **Módulo de Integração ERP & Automação de Processos Empresariais**
-- **Escopo:** Camada de integração desacoplada para sincronização de cadastros, ordens de serviço e processamento de documentos entre sistemas ERP legados e aplicações modernas.
-- **Diferencial Técnico:** Resiliência com retentativas automáticas, tolerância a falhas de rede e esteira de CI/CD automatizada com Jenkins e Docker.
-- **Stack:** `Node.js` • `NestJS` • `Docker` • `Jenkins (CI/CD)` • `REST APIs` • `Webhooks` • `PostgreSQL`
-
 ---
 
 ## 💼 Experiência Profissional
 
+### **Desenvolvedor Full Stack Sênior** — HTeck  
+⏳ *Ago/2026 – Presente*  
+- Liderança técnica e arquitetura de software no desenvolvimento do ERP corporativo completo para metalúrgicas.
+- Desenvolvimento de ponta a ponta dos módulos industriais: PCP, engenharia fabril, controle de estoque de insumos, compras, faturamento e financeiro.
+- Implementação de APIs escaláveis e de alta confiabilidade com NestJS, Prisma e PostgreSQL com transações ACID.
+- Estruturação de pipelines de integração e deploy contínuo (CI/CD) com Docker e Jenkins.
+
 ### **Desenvolvedor Full Stack** — Hybriun Desenvolvimento  
-⏳ *Jul/2025 – Presente*  
-- Arquitetura e desenvolvimento de ponta a ponta em plataformas web modernas (Next.js/React) e aplicativos móveis (React Native com publicação nas lojas Google Play e App Store).
-- Criação e manutenção de APIs REST escaláveis e tipadas com NestJS e modelagem relacional com MySQL.
-- Integração de meios de pagamento digitais (Stripe e Pagar.me) com tratamento seguro e idempotente de webhooks.
+⏳ *Jul/2025 – Jul/2026*  
+- Arquitetura e desenvolvimento de aplicações web modernas (Next.js/React) e aplicativos móveis multiplataforma (React Native com publicação nas lojas Google Play e App Store).
+- Implementação de APIs REST escaláveis e tipadas com NestJS e modelagem relacional com MySQL.
+- Integração de meios de pagamento digitais (Stripe e Pagar.me) com processamento seguro de webhooks.
 
 ### **Desenvolvedor Front-End** — ASC Solutions  
 ⏳ *Mar/2023 – Jul/2025*  
@@ -107,5 +119,5 @@ Experiência sólida na construção de **SaaS multi-tenant**, sistemas analíti
 </p>
 
 <p align="center">
-  Aberto a posições sênior, desenvolvimento de produtos digitais, projetos SaaS e consultoria de arquitetura.
+  Aberto a posições sênior, desenvolvimento de produtos digitais, sistemas ERP, projetos SaaS e consultoria de arquitetura.
 </p>
