@@ -2,6 +2,10 @@
   <img src="./banner.jpg" alt="Arthur Santinati - Senior Full Stack Software Engineer" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./avatar.jpg" alt="Arthur Santinati" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #0284c7;" />
+</p>
+
 # 👋 Olá, eu sou o Arthur Santinati
 
 ### Senior Full Stack Developer | Product Engineer & AI Integrator
