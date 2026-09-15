@@ -15,7 +15,7 @@ Possuo sólida vivência na arquitetura de **plataformas SaaS multi-tenant** (co
 🌐 **Portfólio Pessoal:** [https://arthursantinati.netlify.app/](https://arthursantinati.netlify.app/)  
 📫 **E-mail:** [arthursantinati02@outlook.com](mailto:arthursantinati02@outlook.com)  
 💼 **LinkedIn:** [linkedin.com/in/arthur-santinati](https://www.linkedin.com/in/arthur-santinati/)  
-💬 **WhatsApp:** [Conversar Diretamente](https://wa.me/5519999999999?text=Ol%C3%A1%20Arthur%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
+💬 **WhatsApp:** [Conversar Diretamente](https://wa.me/5519999913640?text=Ol%C3%A1%20Arthur%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
 
 ---
 
