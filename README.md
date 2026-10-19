@@ -79,7 +79,7 @@ Possuo sólida vivência na arquitetura de **plataformas SaaS multi-tenant** (co
 ## 💼 Experiência Profissional
 
 ### **Desenvolvedor Full Stack Sênior** — HTeck  
-⏳ *Ago/2026 – Presente*  
+⏳ *Ago/2026 – Out/2026*  
 - Liderança técnica e arquitetura de software no desenvolvimento do ERP corporativo completo para metalúrgicas.
 - Desenvolvimento de ponta a ponta dos módulos industriais: PCP, engenharia fabril, controle de estoque de insumos, compras, faturamento e financeiro.
 - Implementação de APIs escaláveis e de alta confiabilidade com NestJS, Prisma e PostgreSQL com transações ACID.
